@@ -1,7 +1,5 @@
-aaaaa
+nyaaa
 
 hoge
-
 fuga
-
 piyo
