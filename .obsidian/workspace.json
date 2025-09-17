@@ -166,9 +166,13 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0fb28fc2deafbb63",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "New.md"
+  ]
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #OStrash
 .DS_Store
 Thumbs.db
@@ -11,3 +12,9 @@ Thumbs.db
 
 # 一時ファイル
 *.swp
+=======
+.git
+.gitignore
+.trash
+.obsidian
+>>>>>>> origin/main
