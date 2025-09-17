@@ -1,4 +1,3 @@
-nyaaa
 
 hoge
 fuga
