@@ -6,7 +6,7 @@
   "autoSaveInterval": 5,
   "autoPushInterval": 5,
   "autoPullInterval": 5,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -35,7 +35,7 @@
   "dateInHistoryView": false,
   "diffStyle": "split",
   "lineAuthor": {
-    "show": false,
+    "show": true,
     "followMovement": "inactive",
     "authorDisplay": "initials",
     "showCommitHash": false,
@@ -55,7 +55,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
+    "gutterSpacingFallbackLength": 13,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   }
