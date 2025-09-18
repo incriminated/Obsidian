@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hoge.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hoge"
+              "title": "README"
             }
           }
         ]
@@ -172,7 +172,8 @@
   },
   "active": "0fb28fc2deafbb63",
   "lastOpenFiles": [
-    "README.md",
-    "New.md"
+    "hoge.md",
+    "New.md",
+    "README.md"
   ]
 }
